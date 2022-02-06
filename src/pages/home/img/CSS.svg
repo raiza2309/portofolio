@@ -1,0 +1,57 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="512" height="512">
+	<title>css3-ai</title>
+	<defs>
+		<linearGradient id="g1" x1="312.7" y1="614.1" x2="312.7" y2="452.4" gradientUnits="userSpaceOnUse">
+			<stop offset=".4" stop-color="#d8d9da" stop-opacity="0"/>
+			<stop offset="1" stop-color="#d8d9da"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="507.6" y1="533.4" x2="507.6" y2="365.5" gradientUnits="userSpaceOnUse">
+			<stop offset=".4" stop-color="#d8d9da" stop-opacity="0"/>
+			<stop offset="1" stop-color="#d8d9da"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="317" y1="529.7" x2="705.1" y2="529.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#e9ecea"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="299.1" y1="361.5" x2="720.5" y2="361.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#e9ecea"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #185fb3 } 
+		.s1 { fill: #3da6dc } 
+		.s2 { fill: #2c2e35 } 
+		.s3 { fill: #ffffff } 
+		.s4 { fill: url(#g1) } 
+		.s5 { fill: url(#g2) } 
+		.s6 { fill: url(#g3) } 
+		.s7 { fill: url(#g4) } 
+		.s8 { opacity: .1;fill: #2c2e35 } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s0" d="m784.3 908l-272.4 73.4l-272.4-73.4l-62.9-681h670.6z" />
+				<path id="&lt;Path&gt;" class="s1" d="m783.8 282.2l-50.8 581.5l-220.5 59.4l-0.6-0.2v-640.7z" />
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s2" d="m416.4 126.9v40.5h-103.5v-125.4h103.5v44.4h-59.1v40.5z" />
+					<path id="&lt;Path&gt;" class="s2" d="m564.2 126.9v40.5h-103.6v-40.5c0 0 29.4 0 41.1 0c-20-20-27.2-26.7-41.1-40.5q0-22.1 0-44.4h103.6v44.4h-41.4z" />
+					<path id="&lt;Path&gt;" class="s2" d="m710.9 126.9v40.5h-103.6v-40.5c0 0 29.4 0 41.1 0c-20-20-27.2-26.7-41.1-40.5q0-22.1 0-44.4h103.6v44.4h-41.4z" />
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m720.5 365.5l-8.3 82.2l-200.6 85.7l-188.5 80.7l-6.4-80.4l194.9-81.3z" />
+					<path id="&lt;Path&gt;" class="s4" d="m511.6 452.4v81l-188.5 80.7l-6.4-80.4z" />
+					<path id="&lt;Path&gt;" class="s5" d="m712.2 447.7l-200.6 85.7v-81l208.9-86.9z" />
+					<path id="&lt;Path&gt;" class="s6" d="m705.1 533.7l-22.2 255l-170.9 49.9l-171.9-50.8l-11.1-128.5h85l5.5 66.6l91.5 23.1l95.2-26.8l6.5-107.2l-289.3-0.9l-6.4-80.4z" />
+					<g id="&lt;Group&gt;" style="opacity: .1">
+						<path id="&lt;Path&gt;" class="s2" d="m511.6 614.7l-188.5-0.6l-6.4-80.4h194.9z" />
+						<path id="&lt;Path&gt;" class="s2" d="m511.6 838.6l-171.8-50.8l-11.1-128.5h85l5.5 66.6l91.5 23.1l0.9-0.3z" />
+					</g>
+					<path id="&lt;Path&gt;" class="s7" d="m299.1 365.5h421.4l-8.3 82.2h-402.9z" />
+					<path id="&lt;Path&gt;" class="s8" d="m511.6 447.7h-202.3l-10.2-82.2h212.5z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

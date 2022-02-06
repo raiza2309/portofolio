@@ -1,0 +1,12 @@
+#awards .card .card-title {
+    line-height: 30px;
+}
+
+#awards .card {
+    transform-origin: center;
+    transition: transform .5s ease;
+}
+
+#awards .card:hover {
+    transform: scale(1.05);
+}

@@ -1,0 +1,28 @@
+.introduction {
+    margin-bottom: 40px;
+}
+
+.introduction article {
+    font-size: large;
+    max-width: 600px;
+    text-align: center;
+    line-height: 1.75em;
+    background-color: rgb(199, 199, 255);
+    padding: 20px;
+    border-radius: 1.5em;
+}
+
+.min-150 {
+    height: 150px;
+}
+
+#skills .card {
+    transition: transform .5s ease;
+    transform-origin: center;
+}
+
+#skills .card:hover {
+    transform: scale(1.1);
+    background-color: rgb(241, 241, 241);
+    z-index: 10;
+}

@@ -1,0 +1,38 @@
+{
+    "intro_name": "Silahkan perkenalkan diri anda",
+    "name": "Nama",
+    "about_me": "Tentang Saya",
+    "intro": "Lulusan D3 jurusan Teknik Informatika. Memiliki pengalaman dalam mengembangkan aplikasi mobile dan web. Menguasai framework pemrograman Laravel dan Bootstrap serta bahasa pemrograman seperti HTML, CSS, JavaScript, PHP, Java, dan Kotlin.",
+    "my_skills": "Keahlian Saya",
+    "awards": "Penghargaan",
+    "given_on": "Diberikan pada tanggal",
+    "see_more": "Lihat Selengkapnya",
+    "by": "oleh",
+    "my-projects": "Project Saya",
+    "not_found": "Halaman Tidak Ditemukan",
+    "back_to_homepage": "Kembali ke Halaman Utama",
+    "projects": [
+        {
+            "nama_project": "Sistem Informasi Manajemen dan Mutu Puskesmas Sekaran (Magang)",
+            "waktu_pengerjaan": "Agustus 2020 - November 2020",
+            "deskripsi_1": "Sistem Informasi Manajemen dan Mutu Puskesmas Sekaran adalah sistem informasi berbasis website yang dibangun untuk memenuhi kebutuhan Puskesmas Sekaran dalam mengelola dan mengukur pelayanan di puskesmas tersebut",
+            "deskripsi_2": "Project ini diberikan sebagai tugas magang di Puskesmas Sekaran. Saya diberikan tugas untuk membuat desain sistem, database, dan mengimplementasikannya menjadi sebuah website",
+            "deskripsi_3": "Website ini dibangun menggunakan Framework Laravel untuk menangani Front-End dan juga Back-End. Fitur yang digunakan pada sistem ini antara lain autentikasi, CRUD data, print laporan menjadi PDF, upload dan download file"
+        },
+        {
+            "nama_project": "Sistem Monitoring Tekanan Darah untuk Peringatan Dini Hipertensi",
+            "waktu_pengerjaan": "Maret 2021 - Juli 2021",
+            "deskripsi_1": "Sistem Monitoring Tekanan Darah untuk Peringatan Dini Hipertensi adalah sistem berbasis android yang dibangun untuk memantau tekanan darah pasien yang dapat menentukan apakah pasien tersebut mengalami hipertensi atau tidak",
+            "deskripsi_2": "Project ini saya buat sebagai Tugas Akhir perkuliahan di Politeknik Negeri Semarang bersama dengan teman saya Alfian Soleman L. Bindosano dibawah bimbingan bapak Sukamto, S.Kom., M.T. dan bapak Slamet Handoko, S.Kom., M.Kom.",
+            "deskripsi_3": "Sistem ini menggunakan sensor MPX5050DP untuk membaca tekanan darah pasien kemudian data dikirimkan ke Firebase Database. Data pasien ditampilkan melalui aplikasi Android berupa tekanan darah, tingkat hipertensi, dan rekomendasi untuk pasien"
+        },
+        {
+            "nama_project": "Sistem Informasi Rumah Sakit",
+            "waktu_pengerjaan": "Desember 2021 - Januari 2022",
+            "deskripsi_1": "Sistem Informasi Rumah Sakit adalah sistem informasi berbasis website yang mengelola pelayanan rumah sakit seperti pendaftaran pasien, diagnosa pasien, klaim BPJS, dan farmasi",
+            "deskripsi_2": "Sistem ini menggunakan framework Laravel untuk menangani Front-End dan Back-End. Selain itu saya juga menggunakan library lainnya seperti Bootstrap dan JQuery.",
+            "deskripsi_3": "Fitur dari sistem ini antara lain login, CRUD data, rating, upload dan download file"
+        }
+    ],
+    "contacts": "Contacts"
+}

@@ -1,0 +1,81 @@
+.cust-header {
+    height: 400px;
+    background-image: url('./img/background2.jpg');
+    background-size: cover;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.profile {
+    position: absolute;
+    bottom: -20%;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border: 7px solid rgb(201, 205, 255);
+    border-radius: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.header-content {
+    /* background-color: rgba(153, 153, 153, 0.45); */
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, .4);
+}
+
+.name {
+    font-family: 'Cabin';
+    color: white;
+    text-align: center;
+    cursor: default;
+    margin: 0 auto 0 auto;
+}
+
+.desc {
+    font-family: 'Cabin';
+    text-align: center;
+    color: white;
+    cursor: default;
+    margin: 10px auto 0 auto;
+}
+
+.cust-navbar {
+    z-index: 1000;
+}
+
+.social-media {
+    /* display: flex;
+    flex-direction: row; */
+    height: 50px;
+}
+
+.social-media img {
+    /* width: 200px; */
+    opacity: .5;
+    transition: opacity .5s ease;
+}
+
+.social-media img:hover {
+    opacity: 1;
+}
+
+@media (max-width: 991px) {
+    .cust-navbar {
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+}

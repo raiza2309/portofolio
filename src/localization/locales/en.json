@@ -1,0 +1,38 @@
+{
+    "intro_name": "Please introduce your name",
+    "name": "Name",
+    "about_me": "About Me",
+    "intro": "Associate's degree majoring in Informatics Engineering. Have experience in developing mobile and web applications. Mastering Laravel and Bootstrap programming frameworks and programming languages such as HTML, CSS, JavaScript, PHP, Java, and Kotlin.",
+    "my_skills": "My Skills",
+    "awards": "Awards",
+    "given_on": "Given on",
+    "see_more": "View More",
+    "by": "by",
+    "my-projects": "My Projects",
+    "not_found": "Page Not Found",
+    "back_to_homepage": "Back to Homepage",
+    "projects": [
+        {
+            "nama_project": "Sistem Informasi Manajemen dan Mutu Puskesmas Sekaran (Internship)",
+            "waktu_pengerjaan": "August 2020 - November 2020",
+            "deskripsi_1": "Sekaran's Health Center Information System is a website-based information system that was built to fullfill the needs in managing and measuring its services.",
+            "deskripsi_2": "This project was given as an internship assignment at the Sekaran Health Center. I was given the task to design a system, database and implement it into a website",
+            "deskripsi_3": "This website is built using Laravel Framework to handle Front-End as well as Back-End. Features used in this system such as authentication, CRUD, print report as PDF, upload and download files"
+        },
+        {
+            "nama_project": "Sistem Monitoring Tekanan Darah untuk Peringatan Dini Hipertensi",
+            "waktu_pengerjaan": "March 2021 - July 2021",
+            "deskripsi_1": "The Blood Pressure Monitoring for Hypertension Early Warning System is an android-based system built to monitor a patient's blood pressure which can determine whether the patient has hypertension or not.",
+            "deskripsi_2": "I made this as a final project at the Politeknik Negeri Semarang with my friend Alfian Soleman L. Bindosano under the guidance of Mr. Sukamto, S.Kom., M.T. and Mr. Slamet Handoko, S.Kom., M.Kom.",
+            "deskripsi_3": "This system uses the MPX5050DP sensor to read the patient's blood pressure and then the data is sent to the Firebase Database. Patient's data is displayed through an Android application such as blood pressure, hypertension level, and recommendations for patients"
+        },
+        {
+            "nama_project": "Sistem Informasi Rumah Sakit",
+            "waktu_pengerjaan": "December 2021 - January 2022",
+            "deskripsi_1": "Hospital Information System is a website-based information system that manages hospital services such as patient registration, patient diagnosis, BPJS claims, and pharmacy",
+            "deskripsi_2": "This system uses Laravel framework to handle Front-End and Back-End. I also use other libraries such as Bootstrap and JQuery.",
+            "deskripsi_3": "The features of this system include login, CRUD data, rating, uploading and downloading files "
+        }
+    ],
+    "contacts": "Kontak"
+}
